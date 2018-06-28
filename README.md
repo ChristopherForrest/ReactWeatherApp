@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App]
 (https://github.com/facebookincubator/create-react-app).
 
 
-Data was provided by: https://openweathermap.org
+Real time weather data was provided by: https://openweathermap.org API.
 
 ![](./src/img/InitialState.png)
 ![](./src/img/SearchState.png)
