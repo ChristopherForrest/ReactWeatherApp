@@ -1,7 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was bootstrapped with [Create React App]
+(https://github.com/facebookincubator/create-react-app).
 
 
-(./src/img/bg.jpg)
+Data was provided by: https://openweathermap.org
+
+![](./src/img/InitialState.png)
+![](./src/img/SearchState.png)
+![](./src/img/SearchState0.png)
 
 
 Below you will find some information on how to perform common tasks.<br>
